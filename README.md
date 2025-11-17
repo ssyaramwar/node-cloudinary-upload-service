@@ -38,6 +38,9 @@ FileUpload/
 │
 ├── .env
 ├── index.js
+├── package.json
+└── README.md
+
 
 
 
@@ -123,6 +126,3 @@ file	file
 About me:
 🔗 GitHub: ssyaramwar
 🔗 Portfolio (optional): add if you have
-
-├── package.json
-└── README.md
