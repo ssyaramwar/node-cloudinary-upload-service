@@ -83,10 +83,7 @@ The structure for file metadata saved in the database:
 }
 
 
-👤 About me:
-    Sushant Yeramwar
+## 👤 About the Developer
 
-GitHub: https://github.com/ssyaramwar
-
-📄 License
-This project is released under the MIT License.
+* **Developer:** Sushant Yeramwar
+* **GitHub:** [https://github.com/ssyaramwar](https://github.com/ssyaramwar)
