@@ -81,3 +81,12 @@ The structure for file metadata saved in the database:
   "tags": "String",
   "email": "String"
 }
+
+
+👤 About me:
+    Sushant Yeramwar
+
+GitHub: https://github.com/ssyaramwar
+
+📄 License
+This project is released under the MIT License.
